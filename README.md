@@ -2,14 +2,14 @@
 
 ## This Repository holds usecases for the following topics
 
-1. Computer vision 
-2. Ensemble Techniques
-3. Featurization Model Selection and Tuning
-4. NLP
-5. Neural Networks
-6. Recommendation Systems
-7. Supervised Learning
-8. Unsupervised Learning
+1. Natural Language Processing ( Sequential & Statastical )
+2. Computer Vision
+3. Neural Networks
+4. Recommendation Systems
+5. Featurization Model Selection and Tuning
+6. Unsupervised Learning
+7. Ensemble Techniques
+8. Supervised Learning 
 ---
 
 ### Sequential Natural Language Processing
@@ -140,17 +140,4 @@ the historical database.
 ```
 Logistic Regression, Naive Bayes, KNN, Classification, Python
 ```
----
-### Applied Statistics
-```
-This project uses Plotting distribution, Visualization and Hypothesis Testing to validate statistical evidence and 
-leverage information to make effective decisions 
-Part 1 - Answering Industry Problems through Statistical inferences 
-Part 2 - Analyze past tournament information to make informative investment decisions. 
-Part 3 - Analyzing the status of various startups that participated in the Startup Battlefield which is the world’s 
-pre-eminent startup competition.
-```
-### Skills and Tools
-```
-EDA, Data Visualization, Statistical Inference, Hypothesis Testing, Python
-```
+
