@@ -8,7 +8,11 @@
 
 ###ADVANCED Computer Vision
 
+<<<<<<< HEAD
 **PART1**
+=======
+PART1
+>>>>>>> 3d24853c1409b44cd90a682294e013af55380149
 
 •CONTEXT: Company X owns a movie application and repository which caters movie streaming to millions of users who on subscription basis. Company  wants  to  automate  the  process  of  cast  and  crew  information  in  each  scene  from  a  movie  such  that  when  a  user  pauses  on  the movie and clicks on cast information button, the app will show details of the actor in the scene. Company has an in-house computer vision and multimedia experts who need to detect faces from screen shots from the movie scene.
 
@@ -16,7 +20,11 @@
 
 •PROJECT OBJECTIVE: Face detection from training images.
 
+<<<<<<< HEAD
 **PART2**
+=======
+PART2
+>>>>>>> 3d24853c1409b44cd90a682294e013af55380149
 
 •CONTEXT: Company X intends to build a face identi!ication model to recognise human faces.•DATA DESCRIPTION: The dataset comprises of images and its mask where there is a human face.
 
