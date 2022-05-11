@@ -20,10 +20,12 @@
 
 #### **PART2**
 
-•`CONTEXT`: Company X intends to build a face identi!ication model to recognise human faces.•DATA DESCRIPTION: The dataset comprises of images and its mask where there is a human face.
+•`CONTEXT`: Company X intends to build a face identi!ication model to recognise human faces.
+
+•`DATA DESCRIPTION`: The dataset comprises of images and its mask where there is a human face.
 
 •`PROJECT  OBJECTIVE`: Face  Aligned  Face  Dataset  from  Pinterest.  This  dataset  contains  10,770  images  for  100  people.  All  images  are  taken from 'Pinterest' and aligned using dlib library.
 
-•`TASK`: In  this  problem,  we  use  a  pre-trained  model  trained  on  Face  recognition  to  recognise  similar  faces.  Here,  we  are  particularly interested in recognising whether two given faces are of the same person or not.
+•`TASK`: Use  a  pre-trained  model  trained  on  Face  recognition  to  recognise  similar  faces.  Here,  we  are  particularly interested in recognising whether two given faces are of the same person or not.
 
 ---
