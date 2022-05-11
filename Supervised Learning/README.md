@@ -3,7 +3,8 @@
 #### PART1
     
 `DATA  DESCRIPTION`: The  data  consists  of  biomechanics  features  of  the  patients  according  to  their  current conditions. Each patient is represented in the data set by six biomechanics attributes derived from the shape and orientation of the condition to their body part.
-``` 1.P_incidence
+``` 
+    1.P_incidence
     2.P_tilt
     3.L_angle 
     4.S_slope
@@ -20,7 +21,8 @@
 
 •`DATA DESCRIPTION`: 
 The data consists of the following attributes: 
-```1.ID: Customer ID
+```
+1.ID: Customer ID
 2.Age Customer’s approximate age.
 3.CustomerSince: Customer of the bank since. [unit is masked]
 4.HighestSpend: Customer’s highest spend so far in one transaction. [unit is masked]
