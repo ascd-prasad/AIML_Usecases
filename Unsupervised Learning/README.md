@@ -7,7 +7,8 @@
 •`DATA DESCRIPTION`: The data concerns city-cycle fuel consumption in miles per gallon 
 
 •`Attribute Information`: 
-``` 1.mpg: continuous
+``` 
+    1.mpg: continuous
     2.cylinders: multi-valued discrete
     3.displacement: continuous
     4.horsepower: continuous
